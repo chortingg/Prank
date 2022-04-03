@@ -5,3 +5,5 @@ This is a simple programme/spambot that could be used to spam a word at a time, 
 Loads of inspiration from Tiktok's whatsapp spambot & their Bee Movie script (though I changed up the bulk of the code to my liking, since I thought their older versions (that I also used to use) weren't too compatible)
 
 Warning: Use with loads of great caution against someone with an old phone
+
+Happy spammin'!
